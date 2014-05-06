@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(346,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  F:\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\game2048\proj.win32\..\..\..\scripting\lua\script\AudioEngine.lua
+  F:\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\game2048\proj.win32\..\..\..\scripting\lua\script\CCBReaderLoad.lua
+  F:\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\game2048\proj.win32\..\..\..\scripting\lua\script\Cocos2d.lua
+  F:\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\game2048\proj.win32\..\..\..\scripting\lua\script\CocoStudio.lua
+  F:\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\game2048\proj.win32\..\..\..\scripting\lua\script\extern.lua
+  F:\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\game2048\proj.win32\..\..\..\scripting\lua\script\json.lua
+  复制了 6 个文件
+  AppDelegate.cpp
+  复制了 2 个文件
+  game2048.vcxproj -> F:\cocos2d-x-2.2.2\cocos2d-x-2.2.2\projects\game2048\proj.win32\..\..\..\Debug.win32\game2048.exe
